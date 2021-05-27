@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("ola 1");
+            Console.WriteLine("ola 2");
         }
     }
 }
