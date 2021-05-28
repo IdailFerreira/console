@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("ola 1");
             Console.WriteLine("ola 2");
+            Console.WriteLine("ola 3");
+            Console.WriteLine("ola 4");
         }
     }
 }
